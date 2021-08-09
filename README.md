@@ -1,7 +1,4 @@
 ### Hello there! 
-<div align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=svalvaro" alt="svalvaro"> 
-</div>
 
 - 👨‍🔬💻 I’m currently working as a bioinformatician.
 - 🐍 Learning as many programming languages as I can.
