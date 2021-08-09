@@ -2,7 +2,7 @@
 
 - 👨‍🔬💻 I’m currently working as a bioinformatician.
 - 🐍 Learning as many programming languages as I can.
-- 💬 Let's talk about biotechnology and data science!
+- 💬 Let's talk about biotechnology, data science and chess!
 
 <br>
 
