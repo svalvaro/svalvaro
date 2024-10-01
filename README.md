@@ -1,8 +1,8 @@
 ### Hello there! 
 
-- 👨‍🔬💻 I’m currently working as a bioinformatician.
-- 🐍 Passionate about machine learning, data visualization, and science.
-- 💬 Let's talk about biotechnology, data science and chess!
+- 👨‍🔬💻 I’m currently working as a Software Engineer.
+- 🐍 Passionate about machine learning, data visualization, and (data) science.
+
 
 <br>
 
